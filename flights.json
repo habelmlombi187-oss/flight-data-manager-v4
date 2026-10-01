@@ -1,0 +1,32 @@
+{
+    "Flight_1": {
+        "Aircraft": "Boeing 737",
+        "Speed": 230,
+        "Altitude": 1000,
+        "Fuel": 5000
+    },
+    "Flight_2": {
+        "Aircraft": "Airbus A320",
+        "Speed": 220,
+        "Altitude": 9500,
+        "Fuel": 4800
+    },
+    "Flight_3": {
+        "Aircraft": "Cessna 172 Skyhawk",
+        "Speed": 63.0,
+        "Altitude": 3700.0,
+        "Fuel": 144.0
+    },
+    "Flight_4": {
+        "Aircraft": "Boeing 777-300Er",
+        "Speed": 251.0,
+        "Altitude": 12800.0,
+        "Fuel": 145500.0
+    },
+    "Flight_5": {
+        "Aircraft": "Lockheed Sr-71 Blackbird",
+        "Speed": 983.0,
+        "Altitude": 25900.0,
+        "Fuel": 36300.0
+    }
+}
